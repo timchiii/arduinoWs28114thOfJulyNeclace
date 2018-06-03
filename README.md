@@ -1,5 +1,5 @@
 # Arduino ws2811 4th Of July Neclace
-A small string of ws2811 leds run by an arduino pro mini to display 4th of July themed light patterns. Code is written to allow any length of LED string. Test video: https://www.youtube.com/watch?v=k_DKa39Nn0M
+A small string of ws2811 leds run by an Arduino pro mini using the FastLED library to display 4th of July themed light patterns. Code is written to allow any length of LED string. Test video: https://www.youtube.com/watch?v=k_DKa39Nn0M
 
 There are 4 functions for different lighting patterns. Each function accepts an integer value for the quantity of times to show that pattern. I finally decided on randomizing the pattern and how many times to run it on each loop.
 
